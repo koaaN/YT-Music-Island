@@ -1,0 +1,6 @@
+id=YT-Music-Island
+name=YT-Music-Island
+version=1.0
+versionCode=1
+author=Jonas Salo
+description=Overrides oplus_media_controller_config_sp.xml using bind mount at boot
